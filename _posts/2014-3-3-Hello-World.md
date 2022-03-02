@@ -3,6 +3,4 @@ layout: post
 title: test
 published: true
 ---
-
-# test
 てすとぉー
