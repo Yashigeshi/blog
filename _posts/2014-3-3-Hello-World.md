@@ -1,8 +1,8 @@
 ---
 layout: post
 title: test
+published: true
 ---
 
 # test
-## てすと
 てすとぉー
